@@ -2,7 +2,7 @@
 
 Hello, dear visitor.
 
-I currently dedicate my programming time to making bots and will persist doing so for the forseeable future.
+I currently dedicate my programming time to making bots and will persist doing so for the foreseeable future.
 
 Feel free to reach out for small engagements or consulting (USD110/hour)
 

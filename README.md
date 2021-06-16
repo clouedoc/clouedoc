@@ -13,7 +13,8 @@ If you need to contact me privately, email me: camille.eyries@gmail.com
 - Rush Stack (monorepo with nice tooling)
 - Primsa (ORM -- looking into migrating to Supabase)
 - TypeScript with tons of ESLint rules (most of them already integrated in RushJS)
-- Puppeteer
+- Google Cloud Platform Logging
+- Pupppeteer with `puppeteer-extra`
 
 I published an older version of my stack here: https://github.com/clouedoc/puppeteer-boiler
 

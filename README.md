@@ -1,16 +1,11 @@
-### clouedoc
+I currently dedicate my programming time to **making bots** and will persist doing so for the foreseeable future.
 
-Hello, dear visitor.
-
-I currently dedicate my programming time to making bots and will persist doing so for the foreseeable future.
-
-Feel free to reach out for small engagements or consulting (USD110/hour)
+Feel free to **reach out for small engagements or consulting** (USD110/hour)
 
 ### Contact
 
-If your question is public, the best is to ask it on the scraping chat: <https://extra.community>
-
-If you need to contact me privately, the best is email: camille.eyries@gmail.com
+If your question can be asked in public, ask it on the scraping chat: <https://extra.community>
+If you need to contact me privately, email me: camille.eyries@gmail.com
 
 ### Stack
 

@@ -15,3 +15,8 @@ If you need to contact me privately, email me: camille.eyries@gmail.com
 - Puppeteer
 
 I published an older version of my stack here: https://github.com/clouedoc/puppeteer-boiler
+
+### Monero
+
+I accept Monero as a payment as well as traditionnal methods.
+<https://www.getmonero.org/>

@@ -5,6 +5,7 @@ Feel free to **reach out for small engagements or consulting** (USD110/hour)
 ### Contact
 
 If your question can be asked in public, ask it on the scraping chat: <https://extra.community>
+
 If you need to contact me privately, email me: camille.eyries@gmail.com
 
 ### Stack

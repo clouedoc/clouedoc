@@ -1,16 +1,22 @@
-### Hi there 👋
+### clouedoc
 
-<!--
-**clouedoc/clouedoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, dear visitor.
 
-Here are some ideas to get you started:
+I currently dedicate my programming time to making bots and will persist doing so for the forseeable future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out for small engagements or consulting (USD110/hour)
+
+### Contact
+
+If your question is public, the best is to ask it on the scraping chat: <https://extra.community>
+
+If you need to contact me privately, the best is email: camille.eyries@gmail.com
+
+### Stack
+
+- Rush Stack (monorepo with nice tooling)
+- Primsa (ORM -- looking into migrating to Supabase)
+- TypeScript with tons of ESLint rules (most of them already integrated in RushJS)
+- Puppeteer
+
+I published an older version of my stack here: https://github.com/clouedoc/puppeteer-boiler

@@ -1,4 +1,4 @@
-I currently dedicate my programming time to **making bots** and will persist doing so for the foreseeable future.
+I currently dedicate my programming time to making efficient data scraping solutions + web automation and will persist doing so for the foreseeable future.
 
 Feel free to **reach out for small engagements or consulting** (USD110/hour)
 

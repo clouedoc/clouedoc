@@ -7,3 +7,5 @@ Available for hire (>100$/hour, project-dependent)
 Telegram: @clouedoc
 
 Mail: camille.eyries@gmail.com
+
+![Hedgehog](https://github.com/clouedoc/clouedoc/blob/main/he%CC%81risson%20github-min.jpeg?raw=true)

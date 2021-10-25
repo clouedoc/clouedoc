@@ -21,4 +21,5 @@ Telegram: [@clouedoc](https://t.me/clouedoc)
 
 Mail: [camille.eyries@gmail.com](mailto:camille.eyries@gmail.com)
 
-![cute hedgehog image](https://user-images.githubusercontent.com/13921610/138767149-ba2517bc-0e0a-40c3-a241-39ffb898a865.jpeg)
+
+![cute hedgehog image](https://user-images.githubusercontent.com/13921610/138776571-6119f075-8e8a-4ac1-bc6a-8b598fbdb1d8.png)

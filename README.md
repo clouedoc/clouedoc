@@ -8,4 +8,5 @@ Telegram: @clouedoc
 
 Mail: camille.eyries@gmail.com
 
-![Hedgehog](https://github.com/clouedoc/clouedoc/blob/main/he%CC%81risson%20github-min.jpeg?raw=true)
+![cute hedgehog image](https://user-images.githubusercontent.com/13921610/138767149-ba2517bc-0e0a-40c3-a241-39ffb898a865.jpeg)
+

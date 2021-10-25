@@ -1,6 +1,6 @@
-I code bots.
+I code bots looking like humans.
 
-Feel free to **reach out for small engagements or consulting** (USD110/hour)
+Available for hire (>100$/hour, project-dependent)
 
 ### Contact
 

@@ -11,6 +11,7 @@ Available for hire (>100$/hour, project-dependent)
 | `NDA`        | Puppeteer clients for Pandora, Deezer and Spotify         | TypeScript | unknown       | unknown     |
 | Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript | unknown       | unknown     |
 | `NDA`        | Reverse engineered API client for a cash-winning quiz app | Golang     | unknown       | unknown     |
+| Instabot     | Instagram auto-post and engagement bot                    | Golang     | unknown       | unknown     |
 
 ... and tons of other projects I forgot :)
 

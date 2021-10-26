@@ -22,7 +22,7 @@ Available for hire (>100$/hour, project-dependent)
 | Name                                                                   | Description                                                    |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [reading-list](https://github.com/clouedoc/reading-list)               | A reading list for aspiring offensive web automation developer |
-| [clouedoc-brain](https://github.com/clouedoc/clouedoc/tree/main/brain) |
+| [clouedoc-brain](https://github.com/clouedoc/clouedoc/tree/main/brain) | My open-source thoughts go here                                |
 
 ## Contact
 

@@ -11,5 +11,6 @@ My open-source project ideas.
 | OWAD YouTube channel 1 *     | A YouTube channel about offensive web automation                                                                                           |
 | Hedgehog YouTube channel 2 * | A YouTube channel about hedgehogs                                                                                                          |
 | OWAD Guide                   | Offensive web automation developer guide (markdown)                                                                                        |
+| [OWAD blog](blog)            | A simple blog about myself                                                                                                                 |
 
 *`*` YouTube channels' language will be french.*

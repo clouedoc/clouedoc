@@ -9,6 +9,7 @@ Available for hire (>100$/hour, project-dependent)
 | Project name | Description | Language |
 | ------------ | ----------- | -------- |
 | [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile |
+| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript |
 
 ## Private Portfolio
 

@@ -4,7 +4,13 @@ In other words, I am an offensive web automation developer.
 
 Available for hire (>100$/hour, project-dependent)
 
-## Portfolio
+## Open source projects
+
+| Project name | Description | Language |
+| ------------ | ----------- | -------- |
+| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile |
+
+## Private Portfolio
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |

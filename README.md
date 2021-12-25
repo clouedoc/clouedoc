@@ -40,6 +40,8 @@ Available for hire (>100$/hour, project-dependent)
 - [johackim's hacklab](https://johackim.com/start)
 - [puppeteer-extra's wiki](https://github.com/berstend/puppeteer-extra/wiki)
 - [the puppeteer-extra community](https://extra.community/)
+- [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge) (and all Prescience's work)
+- [niespod's browser-fingerprinting cheatsheet](https://github.com/niespodd/browser-fingerprinting)
 
 ## Contact
 

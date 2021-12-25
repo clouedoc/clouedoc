@@ -6,10 +6,11 @@ Available for hire (>100$/hour, project-dependent)
 
 ## Open source projects
 
-| Project name | Description | Language |
-| ------------ | ----------- | -------- |
-| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile |
-| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript |
+| Project name | Description | Language | Notes |
+| ------------ | ----------- | -------- | ----- |
+| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
+| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
+| [AutoSQLi](https://github.com/clouedoc/AutoSQLi) | An automatic SQL Injection tool | Python | Never quite worked |
 
 ## Private Portfolio
 
@@ -23,7 +24,7 @@ Available for hire (>100$/hour, project-dependent)
 | -        | Reverse engineered API client for a cash-winning quiz app | Golang     |        |      |
 | Instabot     | Instagram auto-post and engagement bot                    | Golang     |        |      |
 
-... and tons of other projects I forgot :)
+... and other projects that I forgot about
 
 ## Other projects
 
@@ -31,6 +32,14 @@ Available for hire (>100$/hour, project-dependent)
 | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [reading-list](https://github.com/clouedoc/reading-list)               | A reading list for aspiring offensive web automation developer |
 | [clouedoc-brain](https://github.com/clouedoc/clouedoc/tree/main/brain) | My open-source thoughts go here                                |
+
+## Inspirations
+
+- [Antoine Vastel's blog](https://antoinevastel.com/)
+- [TimescaleDB's blog](https://blog.timescale.com/blog/how-i-power-a-successful-crypto-trading-bot-with-timescaledb/)
+- [johackim's hacklab](https://johackim.com/start)
+- [puppeteer-extra's wiki](https://github.com/berstend/puppeteer-extra/wiki)
+- [the puppeteer-extra community](https://extra.community/)
 
 ## Contact
 

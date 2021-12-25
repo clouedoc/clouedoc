@@ -15,12 +15,13 @@ Available for hire (>100$/hour, project-dependent)
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
-| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | ongoing     |
-| NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | ongoing     |
-| `NDA`        | Puppeteer clients for Pandora, Deezer, and Spotify        | TypeScript | unknown       | unknown     |
-| Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript | unknown       | unknown     |
-| `NDA`        | Reverse engineered API client for a cash-winning quiz app | Golang     | unknown       | unknown     |
-| Instabot     | Instagram auto-post and engagement bot                    | Golang     | unknown       | unknown     |
+| browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
+| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | **ongoing**     |
+| NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | **ongoing**     |
+| stream-it        | Puppeteer clients for Pandora, Deezer, and Spotify        | TypeScript |        |      |
+| Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |
+| -        | Reverse engineered API client for a cash-winning quiz app | Golang     |        |      |
+| Instabot     | Instagram auto-post and engagement bot                    | Golang     |        |      |
 
 ... and tons of other projects I forgot :)
 

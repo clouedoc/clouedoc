@@ -8,4 +8,6 @@ Welcome 😄
 | --------------------------- | --------------------------- |
 | [Schooling](./SCHOOLING.md) | My thoughts about schooling |
 | [Ideas](./IDEAS.md)         | My open-source ideas        |
-| [Blog](./blog/)             |
+| [Blog](./blog/)             |                             |
+| [Nootropics](./NOOTROPICS.md)                            |                             |
+

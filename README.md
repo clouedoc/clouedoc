@@ -16,9 +16,10 @@ Available for hire (>100$/hour, project-dependent)
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
+| simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | **ongoing** |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
 | OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | **ongoing**     |
-| NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | **ongoing**     |
+| NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | stalled     |
 | stream-it        | Puppeteer clients for Pandora, Deezer, and Spotify        | TypeScript |        |      |
 | Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |
 | -        | Reverse engineered API client for a cash-winning quiz app | Golang     |        |      |

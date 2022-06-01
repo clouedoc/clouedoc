@@ -8,6 +8,7 @@ Available for hire (>175$/hour, project-dependent)
 
 - You cannot improve what you cannot measure
   - Implement telemetry right from the start (metrics, logs, optionnaly traces). Grafana Cloud is good.
+- TypeScript + Rush Stack is good enough for most use cases.
 
 (more to be added)
 

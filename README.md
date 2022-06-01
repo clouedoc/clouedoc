@@ -2,7 +2,14 @@
 
 In other words, I am an offensive web automation developer.
 
-Available for hire (>100$/hour, project-dependent)
+Available for hire (>175$/hour, project-dependent)
+
+## Philosophy
+
+- You cannot improve what you cannot measure
+  - Implement telemetry right from the start (metrics, logs, optionnaly traces). Grafana Cloud is good.
+
+(more to be added)
 
 ## Open source projects
 

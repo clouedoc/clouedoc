@@ -16,6 +16,7 @@ Available for hire (>175$/hour, project-dependent)
 
 | Project name | Description | Language | Notes |
 | ------------ | ----------- | -------- | ----- |
+| [postgresql-obsidian](https://github.com/clouedoc/postgresql-obsidian) | An <a href="https://obsidian.md">Obsidian</a> plugin to upload your notes' metadata to your database. | TypeScript | |
 | [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
 | [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
 | [AutoSQLi](https://github.com/clouedoc/AutoSQLi) | An automatic SQL Injection tool | Python | Never quite worked |
@@ -24,9 +25,9 @@ Available for hire (>175$/hour, project-dependent)
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
-| simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | **ongoing** |
+| simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | stalled |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
-| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | **ongoing**     |
+| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | stalled     |
 | NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | stalled     |
 | stream-it        | Puppeteer clients for Pandora, Deezer, and Spotify        | TypeScript |        |      |
 | Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |

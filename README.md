@@ -1,8 +1,6 @@
 # I code bots that look like real humans
 
-In other words, I am an offensive web automation developer.
-
-Available for hire (>175$/hour, project-dependent)
+Available for hire (150$/hour)
 
 ## Philosophy
 

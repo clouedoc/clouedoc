@@ -27,7 +27,7 @@ Feel free to use them for whatever you want.
 
 | Boilerplate name | Language | Note |
 | ---------------- | -------- | ---- |
-| [typescript-boilerplate](https://github.com/clouedoc/typescript-boilerplate) | TypeScript | My evergreen Cookiecutter TypeScript template. I will update it regularly, as I implement new tools into my workflow. |
+| [typescript-boilerplate](https://github.com/clouedoc/typescript-boilerplate) | TypeScript | My evergreen TypeScript scraping project template. I will update it regularly, as I implement new tools into my workflow. |
 | [typescript-boilerplate-old](https://github.com/clouedoc/typescript-boilerplate-old) | TypeScript | An archived general-purpose TypeScript boilerplate. |
 | [puppeteer-boiler](https://github.com/clouedoc/puppeteer-boiler) | TypeScript | A deprecated browser-automation oriented TypeScript boilerplate. |
 

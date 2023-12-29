@@ -4,10 +4,7 @@ Hello 👋
 
 - I like computers, nootropics, electronic music and trees.
 - My job is making computers act like humans, so that you can extract the data you need.
-- ~~You can hire me for 150$/hour. I can type the right words into your computer.~~
-  -  I don't really accept offers now. I settled down with ScrapingBee.
-  -  But I will still advise you for free, and give recommendations, if you contact me 🙂
-  -  And can do a bit of consulting. 
+- I'll help you out for 150$/hour.
 
 ## Get to know me
 
@@ -22,28 +19,40 @@ Hello 👋
 - Don't obsesss too much over optimization; CPU-time is cheap, brain-time is not.
 - Reverse-engineer life
 - [Have boring code](https://blog.beeminder.com/magic/)
+- Pick boring technology
 
 ### Technology
 
-- Telemetry: Loki, Grafana, Prometheus
-- Orchestration: Kubernetes (k3s)
-- Programming languages: all of them!
-- ORM: none of them!
-- Queues: RabbitMQ, BullMQ
+Of course, picking the right tools for the job is the most important part.
+
+But here is a list of technologies that I use and love along with a small comment.
+
+- Telemetry: Grafana, VictoriaMetrics, (Loki — I don't love it but it does the job)
+- Orchestration: Kubernetes (on Hetzner Cloud to save $$$)
+- Programming languages
+  - TypeScript (Absolutely love it. Yes, the tooling is questionnable, but the type system gives me goosebumps)
+  - Python (I hated it, then I was put to work into a Python codebase, and now I am a bit more measured.)
+  - Go (I use it when I need performance or want to mimic TLS/h2 perfectly)
+  - Kotlin (always useful when automating Android apps 😃)
+- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra.
+- Queues: I like RabbitMQ mainly because I need interoperability, but I feel like it misses something... I'd like to have some kind of framework around it. 👀
 
 ### Productivity
 
 #### Tools
 
-- Complice
-- Beeminder
-- Workflowy
+- [Beeminder](beeminder.com) - to force me to do the boring tasks
+- Todoist — to remember me to do the boring tasks
+- A good old notebook! — to help me reason about the interesting tasks
 
 ### Inspirations
 
+- [LessWrong](https://www.lesswrong.com/)
+- [Beeminder's blog](https://blog.beeminder.com/)
+- [Sam Altman's blog](https://blog.samaltman.com/how-to-be-successful)
+- [Paul Graham's blog](https://www.paulgraham.com/todo.html)
 - [Antoine Vastel's blog](https://antoinevastel.com/)
 - [TimescaleDB's blog](https://blog.timescale.com/blog/how-i-power-a-successful-crypto-trading-bot-with-timescaledb/)
-- [johackim's hacklab](https://johackim.com/start)
 - [puppeteer-extra's wiki](https://github.com/berstend/puppeteer-extra/wiki)
 - [the puppeteer-extra community](https://extra.community/)
 - [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge) (and all Prescience's work)
@@ -67,6 +76,7 @@ Hello 👋
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
+| fastcash | hashcash HTTP solving service focused on performance | Go| Oct 2023 | **ongoing** |
 | x-android   | A containerized Android automation toolkit.                                      | TypeScript | Jun 25 2022 | **ongoing** |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
 | requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 

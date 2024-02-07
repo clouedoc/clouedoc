@@ -2,9 +2,8 @@
 
 Hello 👋
 
-- I like computers, nootropics, electronic music and trees.
 - My job is making computers act like humans, so that you can extract the data you need.
-- I'll help you out for 150$/hour.
+- I'm usually busy, but I might help you out for 150$/hour
 
 ## Get to know me
 
@@ -20,6 +19,7 @@ Hello 👋
 - Reverse-engineer life
 - [Have boring code](https://blog.beeminder.com/magic/)
 - Pick boring technology
+- Be humble; there is always something to learn by listening to others
 
 ### Technology
 
@@ -34,8 +34,10 @@ But here is a list of technologies that I use and love along with a small commen
   - Python (I hated it, then I was put to work into a Python codebase, and now I am a bit more measured.)
   - Go (I use it when I need performance or want to mimic TLS/h2 perfectly)
   - Kotlin (always useful when automating Android apps 😃)
-- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra.
-- Queues: I like RabbitMQ mainly because I need interoperability, but I feel like it misses something... I'd like to have some kind of framework around it. 👀
+  - Bash
+  - SQL
+- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse.
+- Queues: I like RabbitMQ, but the boilerplate is a bit too much for me...
 
 ### Productivity
 
@@ -76,6 +78,7 @@ But here is a list of technologies that I use and love along with a small commen
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
+| brainservice | A generalized ClickHouse-based A/B search&exploit toolkit | TypeScript, SQL | Feb 1 2024 | **ongoing** |
 | fastcash | hashcash HTTP solving service focused on performance | Go| Oct 2023 | **ongoing** |
 | x-android   | A containerized Android automation toolkit.                                      | TypeScript | Jun 25 2022 | **ongoing** |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |

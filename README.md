@@ -2,9 +2,6 @@
 
 Hello 👋
 
-- My job is making computers act like humans, so that you can extract the data you need.
-- I'm usually busy, but I might help you out for 150$/hour
-
 ## Get to know me
 
 ### Philosophy
@@ -20,6 +17,9 @@ Hello 👋
 - [Have boring code](https://blog.beeminder.com/magic/)
 - Pick boring technology
 - Be humble; there is always something to learn by listening to others
+- Take a walk when the next step is not clear.
+- Great work is done in isolation.
+- Be a maniac
 
 ### Technology
 
@@ -36,7 +36,7 @@ But here is a list of technologies that I use and love along with a small commen
   - Kotlin (always useful when automating Android apps 😃)
   - Bash
   - SQL
-- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse.
+- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse. (a few weeks later: I love ClickHouse!)
 - Queues: I like RabbitMQ, but the boilerplate is a bit too much for me...
 
 ### Productivity
@@ -49,6 +49,7 @@ But here is a list of technologies that I use and love along with a small commen
 
 ### Inspirations
 
+- [CommonCog](
 - [LessWrong](https://www.lesswrong.com/)
 - [Beeminder's blog](https://blog.beeminder.com/)
 - [Sam Altman's blog](https://blog.samaltman.com/how-to-be-successful)
@@ -78,14 +79,10 @@ But here is a list of technologies that I use and love along with a small commen
 
 | Project name | Description                                               | Language   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
-| brainservice | A generalized ClickHouse-based A/B search&exploit toolkit | TypeScript, SQL | Feb 1 2024 | **ongoing** |
-| fastcash | hashcash HTTP solving service focused on performance | Go| Oct 2023 | **ongoing** |
-| x-android   | A containerized Android automation toolkit.                                      | TypeScript | Jun 25 2022 | **ongoing** |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
 | requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 
 | simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | May 4 2022 |
 | OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | June 2 2022     |
-| stream-it        | Puppeteer-based music scrapers for Pandora, Deezer, and Spotify        | TypeScript |        |      |
 | Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |
 | QuizBot        | Reverse engineered API client for a cash-winning quiz app | Go     |        |      |
 | Instabot     | Instagram auto-post and engagement bot                    | Go     |        |      |

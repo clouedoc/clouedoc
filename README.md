@@ -2,6 +2,8 @@
 
 Hello 👋
 
+I'm a software engineer with a passion
+
 ## Get to know me
 
 ### Philosophy
@@ -36,8 +38,15 @@ But here is a list of technologies that I use and love along with a small commen
   - Kotlin (always useful when automating Android apps 😃)
   - Bash
   - SQL
-- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse. (a few weeks later: I love ClickHouse!)
+- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse. (a few weeks later: I love ClickHouse!) (on the other hand, my experience with MongoDB was not the best...)
 - Queues: I like RabbitMQ, but the boilerplate is a bit too much for me...
+
+#### Technologies wishlist
+
+These are technologies I wish to adopt but couldn't get the chance to play around with them enough yet.
+
+- [Trigger](https://trigger.dev)
+- [XState](https://xstate.js.org/)
 
 ### Productivity
 
@@ -49,7 +58,7 @@ But here is a list of technologies that I use and love along with a small commen
 
 ### Inspirations
 
-- [CommonCog](
+- [CommonCog](https://commoncog.com/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Beeminder's blog](https://blog.beeminder.com/)
 - [Sam Altman's blog](https://blog.samaltman.com/how-to-be-successful)

@@ -2,7 +2,7 @@
 
 Hello 👋
 
-I'm a software engineer with a passion
+I'm a software engineer with reverse-engineering chops.
 
 ## Get to know me
 

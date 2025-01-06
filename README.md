@@ -30,8 +30,10 @@ Of course, picking the right tools for the job is the most important part.
 
 But here is a list of technologies that I use and love along with a small comment.
 
-- Telemetry: Grafana, VictoriaMetrics, (Loki — I don't love it but it does the job)
-- Orchestration: Kubernetes (on Hetzner Cloud to save $$$)
+- Telemetry: Grafana, VictoriaMetrics, ClickHouse, (Loki — unfortunately)
+- Orchestration:
+  - Kubernetes (on Hetzner to save $$$)
+  - Good old makefiles with `scp`
 - Programming languages
   - TypeScript
   - Python

@@ -3,6 +3,7 @@
 Hello 👋
 
 I'm a software engineer with reverse-engineering chops.
+I am available for consulting for 150$/hour.
 
 ## Get to know me
 
@@ -21,7 +22,7 @@ I'm a software engineer with reverse-engineering chops.
 - Be humble; there is always something to learn by listening to others
 - Take a walk when the next step is not clear.
 - Great work is done in isolation.
-- Be a maniac
+- Pen&paper can do wonders
 
 ### Technology
 
@@ -76,6 +77,8 @@ These are technologies I wish to adopt but couldn't get the chance to play aroun
 
 | Project name | Description | Language | Notes |
 | ------------ | ----------- | -------- | ----- |
+| [llmify](https://github.com/clouedoc/llmify) | A simple tool to transform a subset of a git repository into documentation easily readable by a LLM (Large Language Model) | Rust | |
+| [things3-server](https://github.com/clouedoc/things3-server) | A Things3 server with a focus on preserving your privacy. | TypeScript | |
 | [postgresql-obsidian](https://github.com/clouedoc/postgresql-obsidian) | An <a href="https://obsidian.md">Obsidian</a> plugin to upload your notes' metadata to your database. | TypeScript | |
 | [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
 | [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
@@ -86,8 +89,10 @@ These are technologies I wish to adopt but couldn't get the chance to play aroun
 
 ### Private
 
-| Project name | Description                                               | Language   | First commit  | Last commit |
-| ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
+| Project name   | Description                                                             | Language    | First commit   | Last commit |
+| -------------- | ----------------------------------------------------------------------- | ----------- | -------------- | ----------- |
+| meowssl | A BoringSSL fork that allows more flexibility for TLS fingerprinting evasions  | C++         | Sep 11 2024    | **ongoing** |
+| mitmproxy-meow | A Mitmproxy fork with TLS and h2 mimicking capabilities                 | Python      | Sep 11 2024    | **ongoing** |
 | browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
 | requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 
 | simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | May 4 2022 |

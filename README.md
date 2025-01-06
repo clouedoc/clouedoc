@@ -33,14 +33,20 @@ But here is a list of technologies that I use and love along with a small commen
 - Telemetry: Grafana, VictoriaMetrics, (Loki — I don't love it but it does the job)
 - Orchestration: Kubernetes (on Hetzner Cloud to save $$$)
 - Programming languages
-  - TypeScript (Absolutely love it. Yes, the tooling is questionnable, but the type system gives me goosebumps)
-  - Python (I hated it, then I was put to work into a Python codebase, and now I am a bit more measured.)
-  - Go (I use it when I need performance or want to mimic TLS/h2 perfectly)
-  - Kotlin (always useful when automating Android apps 😃)
-  - Bash
+  - TypeScript
+  - Python
+  - Go
+  - Kotlin
+  - Bash (... always forgetting the syntax, though...)
   - SQL
-- Databases: I love PostgreSQL and had a bad experience with MongoDB early on. I am fascinated by distributed databases like Cassandra. I recently started using ClickHouse. (a few weeks later: I love ClickHouse!) (on the other hand, my experience with MongoDB was not the best...)
-- Queues: I like RabbitMQ, but the boilerplate is a bit too much for me...
+  - Rust (❤️)
+- Databases:
+  - PostgreSQL
+  - ClickHouse
+  - Redis/Dragonfly
+- Queues:
+  - AMQP (RabbitMQ)
+  - BullMQ
 
 #### Technologies wishlist
 

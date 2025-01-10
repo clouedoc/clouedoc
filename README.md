@@ -8,6 +8,38 @@ I specialise in hard-to-crack data acquisition problems at scale (i.e, reliably 
 
 I am available for consulting at the price of 150$/hour.
 
+## Portfolio
+
+### Open-source
+
+| Project name | Description | Language | Notes |
+| ------------ | ----------- | -------- | ----- |
+| [llmify](https://github.com/clouedoc/llmify) | A simple tool to transform a subset of a git repository into documentation easily readable by a LLM (Large Language Model) | Rust | |
+| [things3-server](https://github.com/clouedoc/things3-server) | A Things3 server with a focus on preserving your privacy. | TypeScript | |
+| [postgresql-obsidian](https://github.com/clouedoc/postgresql-obsidian) | An <a href="https://obsidian.md">Obsidian</a> plugin to upload your notes' metadata to your database. | TypeScript | |
+| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
+| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
+| [AutoSQLi](https://github.com/clouedoc/AutoSQLi) | An automatic SQL Injection tool | Python | Never quite worked |
+| [typescript-boilerplate](https://github.com/clouedoc/typescript-boilerplate) | TypeScript | My evergreen TypeScript scraping project template. I will update it regularly, as I implement new tools into my workflow. |
+| [typescript-boilerplate-old](https://github.com/clouedoc/typescript-boilerplate-old) | TypeScript | An archived general-purpose TypeScript boilerplate. |
+| [puppeteer-boiler](https://github.com/clouedoc/puppeteer-boiler) | TypeScript | A deprecated browser-automation oriented TypeScript boilerplate. |
+
+### Private
+
+| Project name   | Description                                                             | Language    | First commit   | Last commit |
+| -------------- | ----------------------------------------------------------------------- | ----------- | -------------- | ----------- |
+| meowssl | A BoringSSL fork that allows more flexibility for TLS fingerprinting evasions  | C++         | Sep 11 2024    | **ongoing** |
+| mitmproxy-meow | A Mitmproxy fork with TLS and h2 mimicking capabilities                 | Python      | Sep 11 2024    | **ongoing** |
+| browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
+| requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 
+| simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | May 4 2022 |
+| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | June 2 2022     |
+| Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |
+| QuizBot        | Reverse engineered API client for a cash-winning quiz app | Go     |        |      |
+| Instabot     | Instagram auto-post and engagement bot                    | Go     |        |      |
+
+... and other projects that I forgot about
+
 ## Get to know me
 
 ### Philosophy
@@ -82,37 +114,7 @@ These are technologies I wish to adopt but couldn't get the chance to play aroun
 - [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge) (and all Prescience's work)
 - [niespod's browser-fingerprinting cheatsheet](https://github.com/niespodd/browser-fingerprinting)
 
-## Portfolio
 
-### Open-source
-
-| Project name | Description | Language | Notes |
-| ------------ | ----------- | -------- | ----- |
-| [llmify](https://github.com/clouedoc/llmify) | A simple tool to transform a subset of a git repository into documentation easily readable by a LLM (Large Language Model) | Rust | |
-| [things3-server](https://github.com/clouedoc/things3-server) | A Things3 server with a focus on preserving your privacy. | TypeScript | |
-| [postgresql-obsidian](https://github.com/clouedoc/postgresql-obsidian) | An <a href="https://obsidian.md">Obsidian</a> plugin to upload your notes' metadata to your database. | TypeScript | |
-| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
-| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
-| [AutoSQLi](https://github.com/clouedoc/AutoSQLi) | An automatic SQL Injection tool | Python | Never quite worked |
-| [typescript-boilerplate](https://github.com/clouedoc/typescript-boilerplate) | TypeScript | My evergreen TypeScript scraping project template. I will update it regularly, as I implement new tools into my workflow. |
-| [typescript-boilerplate-old](https://github.com/clouedoc/typescript-boilerplate-old) | TypeScript | An archived general-purpose TypeScript boilerplate. |
-| [puppeteer-boiler](https://github.com/clouedoc/puppeteer-boiler) | TypeScript | A deprecated browser-automation oriented TypeScript boilerplate. |
-
-### Private
-
-| Project name   | Description                                                             | Language    | First commit   | Last commit |
-| -------------- | ----------------------------------------------------------------------- | ----------- | -------------- | ----------- |
-| meowssl | A BoringSSL fork that allows more flexibility for TLS fingerprinting evasions  | C++         | Sep 11 2024    | **ongoing** |
-| mitmproxy-meow | A Mitmproxy fork with TLS and h2 mimicking capabilities                 | Python      | Sep 11 2024    | **ongoing** |
-| browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
-| requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 
-| simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | May 4 2022 |
-| OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | June 2 2022     |
-| Pumpbot      | A cryptocurrency pump-and-dump exploitation tool          | TypeScript |        |      |
-| QuizBot        | Reverse engineered API client for a cash-winning quiz app | Go     |        |      |
-| Instabot     | Instagram auto-post and engagement bot                    | Go     |        |      |
-
-... and other projects that I forgot about
 
 
 ## Contact

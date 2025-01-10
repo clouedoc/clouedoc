@@ -3,6 +3,7 @@
 Hello 👋
 
 I'm a software engineer with reverse-engineering chops.
+I specialise in hard-to-crack data acquisition problems at scale (i.e, reliably bypassing anti-scraping systems at scale)
 I am available for consulting for 150$/hour.
 
 ## Get to know me

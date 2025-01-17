@@ -69,13 +69,12 @@ But here is a list of technologies that I use and love along with a small commen
 - Orchestration:
   - Kubernetes (on Hetzner to save $$$)
   - Good old makefiles with `scp`
-- Programming languages
+- Programming languages I am proefficient in
   - TypeScript
   - Python
   - Go
-  - Kotlin
-  - Bash (... always forgetting the syntax, though...)
   - SQL
+- Programming languages I'm learning
   - Rust (❤️)
 - Databases:
   - PostgreSQL

@@ -89,16 +89,15 @@ But here is a list of technologies that I use and love along with a small commen
 
 These are technologies I wish to adopt but couldn't get the chance to play around with them enough yet.
 
-- [Trigger](https://trigger.dev)
-- [XState](https://xstate.js.org/)
+- [Trigger](https://trigger.dev) --> I'm not sure if I want to put more of my bytes into another VC-backed project...
+- [XState](https://xstate.js.org/) --> I can't bear that syntax. I ended up learning Rust instead.
 
 ### Productivity
 
 #### Tools
 
 - [Beeminder](beeminder.com) - to force me to do the boring tasks
-- Todoist — to remember me to do the boring tasks
-- A good old notebook! — to help me reason about the interesting tasks
+- [Kindle Scribe](https://en.wikipedia.org/wiki/Amazon_Kindle) - to jot down my thoughts
 
 ### Inspirations
 
